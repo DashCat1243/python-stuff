@@ -1,2 +1,2 @@
-# python-stuff
+# Python Stuff
 Just learning Python
